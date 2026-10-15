@@ -101,7 +101,7 @@ Authify is evolving into a comprehensive developer-first identity infrastructure
 
 ---
 
-<<<<<<< HEAD
+ 
 ## ℹ️ History
 This project was started around November 2025 as a security-first OTP authentication system and has been positioned and rebranded as **Authify** ([authify.in](https://authify.in)).
 =======
@@ -119,4 +119,3 @@ This project was started around November 2025 as a security-first OTP authentica
 
  
 
->>>>>>> 89e27523075a945c8b7d36e5ae4686fc2e26014f
